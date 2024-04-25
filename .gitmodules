@@ -1,0 +1,3 @@
+[submodule "src/populartimes"]
+	path = src/populartimes
+	url = https://github.com/m-wrzr/populartimes.git
