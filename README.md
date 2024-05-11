@@ -1,9 +1,9 @@
-template
+MDOT-Travel-Demand
 ==============================
 
-A short description of the project.
+This project centers around a python script provided is designed to interact with Google's Places API to gather information about local businesses based on specific criteria such as location, type, and radius.
 
-Project Organization
+Project Folder Organization
 ------------
 
     ├── LICENSE
