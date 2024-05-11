@@ -1,7 +1,7 @@
 MDOT-Travel-Demand
 ==============================
 
-This project centers around a python script provided is designed to interact with Google's Places API to gather information about local businesses based on specific criteria such as location, type, and radius.
+This project centers around a python script that is designed to interact with Google's Places API to gather information about local businesses based on specific criteria such as location, type, and radius.
 
 Project Folder Organization
 ------------
@@ -55,3 +55,5 @@ Project Folder Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
