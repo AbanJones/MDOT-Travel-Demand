@@ -1,7 +1,8 @@
 MDOT-Travel-Demand
 ==============================
 
-This project centers around a python script that is designed to interact with Google's Places API to gather information about local businesses based on specific criteria such as location, type, and radius.
+This project centers around a python script that is designed to interact with Google's Places API to gather information about local businesses based on specific criteria such as location, type, and radius. **Find the code that generates a dataset in the src/data directory**
+
 
 Project Folder Organization
 **Find the code that generates a dataset in the src/data directory**
