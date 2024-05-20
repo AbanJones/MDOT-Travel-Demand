@@ -5,7 +5,6 @@ This project centers around a python script that is designed to interact with Go
 
 
 Project Folder Organization
-**Find the code that generates a dataset in the src/data directory**
 ------------
 
     ├── LICENSE
