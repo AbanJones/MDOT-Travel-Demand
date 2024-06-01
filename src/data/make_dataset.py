@@ -3,7 +3,7 @@ import time
 import csv
 import os
 
-def get_local_businesses(api_key, location, radius, place_type, limit=60):
+def get_local_businesses(api_key, location, radius, place_type, limit):
     url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json"
     businesses = []
     params = {
@@ -118,7 +118,7 @@ def process_queries_for_place_types(api_key, place_types, location, radius, limi
 api_key = ''
 location = '39.004064,-77.149058'  # Adjust as needed
 radius = 6000  # Adjust as needed
-limit = 1
+limit = 60
 place_types_file = 'place_types.txt' #Enter filename here
 place_types = read_place_types(place_types_file)
 csv_filename = "data/interim/all_places_data.csv"
